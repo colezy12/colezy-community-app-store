@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: amp-dockerized
+id: colezy-amp-dockerized
 name: CubeCoders AMP
 tagline: Self Hosting For Game Servers, like Minecraft and more!
 icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/cubecoders-amp.png
