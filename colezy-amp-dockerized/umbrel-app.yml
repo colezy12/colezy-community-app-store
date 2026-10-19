@@ -4,7 +4,7 @@ name: CubeCoders AMP
 tagline: Self Hosting For Game Servers, like Minecraft and more!
 icon: https://cdn.jsdelivr.net/gh/selfhst/icons/png/cubecoders-amp.png
 category: Self Hosting
-version: "1.0.0"
+version: "2.8.0.8"
 port: 8080
 description: >-
   The current support depends on the ports that are opened in the docker-compose.yml file.
@@ -13,7 +13,7 @@ description: >-
   Since currently I only need this for Minecraft Usage.
 
 developer: MitchTalmadge
-website: https://github.com/MitchTalmadge/AMP-dockerized
+website: https://mitchtalmadge.com/
 submitter: Colezy
 submission: https://github.com/MitchTalmadge/AMP-dockerized
 repo: https://github.com/MitchTalmadge/AMP-dockerized
