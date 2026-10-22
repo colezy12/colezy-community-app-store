@@ -1,3 +1,6 @@
-## HEY!
-# If you are reading this I am still working on this! Downloading might not work which is what I am trying to fix.
-# So if you come back and this is gone I have figured out how to get this to work and it should be ready to download!
+# HEY!
+
+I officially have AMP working in this app store! Which is great!
+I will be planning to add more apps I need in the future so...
+If you use AMP and cannot find any other AMPs well AMP is right 
+here built straight into Umbrel with [AMP-Dockerized](https://github.com/MitchTalmadge/AMP-dockerized).
