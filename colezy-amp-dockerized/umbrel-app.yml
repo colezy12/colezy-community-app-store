@@ -25,5 +25,5 @@ releaseNotes: >-
   Added AMP to the App Store
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "admin"
+defaultPassword: "password"
