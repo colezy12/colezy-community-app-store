@@ -11,8 +11,9 @@ services:
       # - 34197:34197/udp               # Factorio
       # - 27015:27015/udp               # GMod, TF2, and other Source engine games
       # - 19132:19132/udp               # Minecraft Bedrock Edition
-      25565:25565                   # Minecraft Java Edition
-      24454:24454/udp
+      - 25565:25565                   # Minecraft Java Edition
+      - 24454:24454/udp
+      - 3000:3000                       # Node.js Usage
       # - 21025:21025                   # Starbound
       # - 5678-5680:5678-5680/udp       # Valheim
     volumes:

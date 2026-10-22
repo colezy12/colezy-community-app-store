@@ -10,7 +10,7 @@ description: >-
   The current support depends on the ports that are opened in the docker-compose.yml file.
   If you want to open other ports for AMP fork this repo and edit in the ports inside docker-compose.yml
 
-  Since currently I only need this for Minecraft Usage.
+  Since currently I only need this for Minecraft and Node Usage.
 
 developer: MitchTalmadge
 website: https://mitchtalmadge.com/
